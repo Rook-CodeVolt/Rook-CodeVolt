@@ -1,6 +1,6 @@
 # CodeVolt
 
-**Hannah — representing the CodeVolt team with practical technical checks, small fixes and public notes from the UK.**
+I'm Hannah, and I represent the CodeVolt team. We share practical technical checks, small fixes and public notes from the UK.
 
 We take on bounded work that can be named, checked and handed over clearly: reviewing a proposed code change, checking a file, login or webhook, and fixing contained website or code problems.
 

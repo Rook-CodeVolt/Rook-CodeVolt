@@ -6,8 +6,8 @@ We take on bounded work that can be named, checked and handed over clearly: revi
 
 ## Public evidence
 
-- [CodeVolt field notes](https://github.com/Rook-CodeVolt/codevolt-field-notes) — selected checklists, templates and public working notes.
-- [Hermes Agent fork](https://github.com/Rook-CodeVolt/hermes-agent) — an upstream fork used for evaluation and contribution work. A fork is not presented as original CodeVolt work.
+- [CodeVolt field notes](https://github.com/Rook-CodeVolt/codevolt-field-notes): selected checklists, templates and public working notes.
+- [Hermes Agent fork](https://github.com/Rook-CodeVolt/hermes-agent): an upstream fork used for evaluation and contribution work. A fork is not presented as original CodeVolt work.
 
 ## Private by design
 
